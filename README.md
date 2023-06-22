@@ -8,7 +8,7 @@ StudentManagementSystem-java：后端代码（Java）
 
 vuedemo：前端代码（Vue2）
 
-demo.sql：数据库（NaviCat+MySQL）
+demo.sql：数据库（NaviCat+MySQL8）
 
 **效果：**
 
